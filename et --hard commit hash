@@ -1,0 +1,17 @@
+[33mad34e40[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to ad34e402ae70b947adc315ab52dc76d432a3bc7f
+[33m2d18979[m HEAD@{1}: reset: moving to HEAD
+[33m2d18979[m HEAD@{2}: reset: moving to HEAD
+[33m2d18979[m HEAD@{3}: reset: moving to HEAD
+[33m2d18979[m HEAD@{4}: checkout: moving from two to main
+[33m05c846f[m[33m ([m[1;32mtwo[m[33m)[m HEAD@{5}: reset: moving to HEAD
+[33m05c846f[m[33m ([m[1;32mtwo[m[33m)[m HEAD@{6}: rebase (finish): returning to refs/heads/two
+[33m05c846f[m[33m ([m[1;32mtwo[m[33m)[m HEAD@{7}: rebase (continue): 2nd branch done
+[33m2d18979[m HEAD@{8}: rebase (start): checkout main
+[33m365bcc4[m HEAD@{9}: checkout: moving from main to two
+[33m2d18979[m HEAD@{10}: commit: again update
+[33mb9be41d[m HEAD@{11}: commit: main branch updated
+[33mad34e40[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{12}: checkout: moving from two to main
+[33m365bcc4[m HEAD@{13}: commit: update 2nd branch
+[33m4988549[m HEAD@{14}: commit: 2nd branch done
+[33mad34e40[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{15}: checkout: moving from main to two
+[33mad34e40[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{16}: commit (initial): made main
